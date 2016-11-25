@@ -1,5 +1,6 @@
 # Wk4DataAssignment
 Week 4 assignment of the Getting and Cleaning Data Course Project
+Note: You can read the final table back into R with df <-read.table("./data/tidydataset.txt")
 
 The purpose of this project is to to prepare a tidy dataset that can be used for later analysis. The source data for this project is obtained from the following site https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 This data represents information collected from the accelerometers from the Samsung Galazy S smartphone. 
