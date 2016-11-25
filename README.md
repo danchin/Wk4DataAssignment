@@ -9,7 +9,7 @@ Included together is a code book (CodeBook.md) that describes the variables, the
 
 The R code used is provided in the script run_analysis.R. This script performs the following steps
 
-Step 1: Set the working directory and load the relevant libraries (in this case, dplyr)
+Step 1: Load the relevant libraries (in this case, dplyr)
 Step 2: Read in the relevant training and test datasets into memory using "read.table" function. Relevant columnn header tables are also read in
 Step 3: All training and test dataset columns are then labeled appropriately using the "colnames" function.
 Step 4: The training and test dataset is then merged to form a single combined dataset using "cbind" and "rbind" functions
